@@ -41,3 +41,9 @@ Uma API simples em **Flask/Django**, focada em boas práticas e testes automatiz
 
 ---
 ✨ Sempre aprendendo, sempre construindo!# moisesz10
+
+--------
+
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=moisesz10&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
