@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou o Moisés Nunes
+# Olá, eu sou o Moisés Nunes
 
-💻 **Desenvolvedor Backend | Automação & IA**  
-🚀 Especializado na construção de **agentes autônomos, pipelines de automação, integrações com LLMs (Gemini) e Micro-SaaS escaláveis**.  
-📍 Brasil | 💼 Aberto a oportunidades e novos desafios  
+**Desenvolvedor Backend | Automação & IA**  
+Especializado na construção de **agentes autônomos, pipelines de automação, integrações com LLMs (Gemini) e Micro-SaaS escaláveis**.  
+Brasil | Aberto a oportunidades e novos desafios  
 
 ---
 
-## 🛠️ Stack & Ferramentas
+## Stack & Ferramentas
 
 ### Backend & Automação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,9 +25,9 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🎬 [AllSocialMidia — Produção Automatizada de Vídeos](https://github.com/moisesz10/allsocialmidia)
+### [AllSocialMidia — Produção Automatizada de Vídeos](https://github.com/moisesz10/allsocialmidia)
 > Ferramenta de automação para criação em massa e publicação de vídeos curtos (Shorts, Reels, TikTok) e longos utilizando Inteligência Artificial.
 * **Geração de Roteiros:** Otimizado com API do Google Gemini.
 * **Vozes Neurais:** Narração realista com Edge-TTS e Ducking automático.
@@ -37,7 +37,7 @@
 
 ---
 
-### 🎙️ [Briefify — AI Reading & Audio Assistant (Micro-SaaS)](https://github.com/moisesz10/Briefify)
+### [Briefify — AI Reading & Audio Assistant (Micro-SaaS)](https://github.com/moisesz10/Briefify)
 > Micro-SaaS full-stack focado em transformar conteúdos extensos em resumos auditivos consumíveis em poucos segundos com IA.
 * **Geração Inteligente:** Resumos e estruturação textual com Gemini API.
 * **Monetização Integrada:** Sistema completo de cobrança e planos com Stripe.
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moisesz10&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas Moisés" height="165" />
@@ -55,11 +55,11 @@
 
 ---
 
-## 📫 Contato & Conexões
+## Contato & Conexões
 
-- ✉️ **Email:** [moises.nuneswork@gmail.com](mailto:moises.nuneswork@gmail.com)
-- 💼 **LinkedIn:** [Adicionar Perfil](https://www.linkedin.com) *(atualize com seu link)*
-- 🌐 **GitHub:** [@moisesz10](https://github.com/moisesz10)
+- **Email:** [moises.nuneswork@gmail.com](mailto:moises.nuneswork@gmail.com)
+- **LinkedIn:** [Adicionar Perfil](https://www.linkedin.com) *(atualize com seu link)*
+- **GitHub:** [@moisesz10](https://github.com/moisesz10)
 
 ---
 <p align="center">
